@@ -1,3 +1,6 @@
+.. note::
+   **Not part of Ghost.** This is a copy of Home Assistant Core, kept for reference. It is not installed on a Ghost box.
+
 Home Assistant |Chat Status|
 =================================================================================
 
