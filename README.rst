@@ -1,3 +1,14 @@
+CultureReset fork of `home-assistant/core <https://github.com/home-assistant/core>`__. Open source home automation that puts local control and privacy first.
+
+- **Why it is here:** Saved for reference.
+- **Does anything run from it:** No.
+- **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+- **License:** Apache-2.0, from upstream. For updates and issues, use `upstream <https://github.com/home-assistant/core>`__.
+
+The upstream README follows unchanged.
+
+----
+
 Home Assistant |Chat Status|
 =================================================================================
 
